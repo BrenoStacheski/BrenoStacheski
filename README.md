@@ -2,7 +2,7 @@
 
 ## I'm Breno Stacheski!
 
-:computer: I'm a front-end developer! I work with: Angular 2+ & Typescript - and a React Native enthusiast! :D
+:computer: I'm a front-end developer! I work with: Angular 2+ & TypeScript - and a React Native enthusiast! :D
 
 :house_with_garden: I’m from Brazil.
 
