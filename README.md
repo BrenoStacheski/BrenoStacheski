@@ -15,7 +15,7 @@
    <a href="https://github.com/BrenoStacheski" target="_blank">GitHub</a>
  </li>
  <li>
-   <a href="https://www.linkedin.com/in/breno-stacheski-476073115/" target="_blank">Linkedin</a>
+   <a href="https://www.linkedin.com/in/breno-stacheski/" target="_blank">Linkedin</a>
  </li>
  <li>
    <a href="https://www.instagram.com/brenosttc" target="_blank">Instagram</a>
