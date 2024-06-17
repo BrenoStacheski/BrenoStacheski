@@ -6,7 +6,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:rocket: Currently as junior front-end developer at Sistema Iris \o/
+:rocket: Currently as mid-level front-end developer at Sistema Iris \o/
  
 ## Contact
 
